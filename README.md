@@ -1,6 +1,9 @@
 # x_not_twice
 X has been showing me the same posts over and over A TON lately. Take control of your spaced repetition.
 
+## Important
+X serves the same posts over and over, so this won't run very well after a little while as it'll be hiding everything. Leaving it up for historical purposes or if anyone wants to fork/tweak it further.
+
 <h1>Install:</h1>
 <h3>First you'll need to install the Tampermonkey Browser Extension. Depending on your browser, click the appropriate link below and follow the steps to add the extension:</h3>
 

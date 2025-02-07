@@ -14,6 +14,3 @@ X has been showing me the same posts over and over A TON lately. Take control of
 
 <h1>Upgrade:</h1>
 <li>Just visit <a href="https://github.com/frankamedic/x_not_twice/raw/refs/heads/main/xnottwice.user.js">this link</a> and click Upgrade.</li>
-
-<h2>Goal</h2>
-</b>You can change your goal by setting <b>0.7</b> on line 150 <b> var pe_ratio = 0.7; </b> to the number of your choice.

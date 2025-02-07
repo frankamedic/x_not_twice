@@ -10,10 +10,10 @@ X has been showing me the same posts over and over A TON lately. Take control of
 <li><b>Firefox</b>: Install <a href="https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/">Tampermonkey</a></li>
 <li><b>Internet Explorer</b>: why?</li>
 </ul>
-<h3>After installing the plugin, visit <a href="https://github.com/frankamedic/x_not_twice/raw/master/xnottwice.js">this link</a>  and click install.</h3>
+<h3>After installing the plugin, visit <a href="https://github.com/frankamedic/x_not_twice/raw/refs/heads/main/xnottwice.user.js">this link</a>  and click install.</h3>
 
 <h1>Upgrade:</h1>
-<li>Just visit <a href="https://github.com/frankamedic/x_not_twice/raw/master/xnottwice.js">this link</a> and click Upgrade.</li>
+<li>Just visit <a href="https://github.com/frankamedic/x_not_twice/raw/refs/heads/main/xnottwice.user.js">this link</a> and click Upgrade.</li>
 
 <h2>Goal</h2>
 </b>You can change your goal by setting <b>0.7</b> on line 150 <b> var pe_ratio = 0.7; </b> to the number of your choice.

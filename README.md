@@ -1,5 +1,5 @@
 # x_not_twice
-X has been showing me the same posts over and over A TON lately. Take control of your spaced repitition.
+X has been showing me the same posts over and over A TON lately. Take control of your spaced repetition.
 
 <h1>Install:</h1>
 <h3>First you'll need to install the Tampermonkey Browser Extension. Depending on your browser, click the appropriate link below and follow the steps to add the extension:</h3>
